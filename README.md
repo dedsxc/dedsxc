@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🪐 Home-labs
 
-<!--
-**dedsxc/dedsxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src=".github/rocket.png" alt="Neon Rocket Launch Control" width="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| 🚀 Website                              | 📶 Status                                                                                                        |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **[Portfolio](https://kien.cc)**       | ![Status](https://status.kien.cc/api/badge/9/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge)  |
+| **[GPT](https://chat.kien.cc)**        | ![Status](https://status.kien.cc/api/badge/11/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge) |
+| **[Outline](https://outline.kien.cc)** | ![Status](https://status.kien.cc/api/badge/10/status?upColor=%237CFFEA&downColor=23FF3C38&style=for-the-badge)  |
+| **[Squoosh](https://squoosh.kien.cc)** | ![Status](https://status.kien.cc/api/badge/18/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge) |
+
+</div>
+
+---
+
+## Infrastructure 
+
+| 🛰️ Infrastructure    | 📶 Status                                                                                                        |
+| ------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Overview            | ![Status](https://status.kien.cc/api/badge/1/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge)  |
+| **ArgoCD**          | ![Status](https://status.kien.cc/api/badge/2/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge)  |
+| **Infisical**       | ![Status](https://status.kien.cc/api/badge/16/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge) |
+| **Hashicorp Vault** | ![Status](https://status.kien.cc/api/badge/17/status?upColor=%237CFFEA&downColor=%23FF3C38&style=for-the-badge) |
+
+
+
+✨ **Legend:**  
+- 🟢 Online → glowing cyan  
+- 🔴 Offline → warning red  
+
