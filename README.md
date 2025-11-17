@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src=".github/rocket.png" alt="Neon Rocket Launch Control" width="200"/>
+<img src="rocket.png" alt="Neon Rocket Launch Control" width="200"/>
 
 
 | 🚀 Website                              | 📶 Status                                                                                                        |
